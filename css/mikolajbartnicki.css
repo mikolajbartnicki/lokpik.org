@@ -16,8 +16,7 @@ a:hover, a:active {
 }
 
 body {
-    background-image: url("../img/image.jpg");
-    /* it will be a local style or be overwritten by it */
+    background-image: url('../img/background.jpg');
     background-color: rgb(251, 251, 251);
     background-attachment: fixed;
     background-position: center;
