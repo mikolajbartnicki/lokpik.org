@@ -74,6 +74,8 @@ p.note {
 ul.navigation {
     line-height: 2em;
     text-align: center;
+    margin: 0px;    /* to override possible default value */
+    padding: 0px;   /* to override possible default value */
 }
 
 ul.navigation>li {
