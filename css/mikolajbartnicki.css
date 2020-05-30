@@ -42,7 +42,7 @@ img {
 
 @media only screen and (max-width: 1024px) {
     div.content {
-        margin: 0;
+        margin: 0 auto;
         padding: 12.5%;
         width: 100%;
     }
