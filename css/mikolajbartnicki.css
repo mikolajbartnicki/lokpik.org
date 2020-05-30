@@ -31,8 +31,8 @@ div.content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 16px 0 rgba(0, 0, 0, 0.19);
     color: rgb(0, 0, 0);
     margin: 64px auto;
+    max-width: 1024px;
     padding: 128px;
-    width: 1024px;
 }
 
 img {
@@ -44,7 +44,6 @@ img {
     div.content {
         margin: 0 auto;
         padding: 12.5%;
-        width: 100%;
     }
 }
 
