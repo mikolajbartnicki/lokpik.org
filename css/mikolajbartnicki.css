@@ -43,7 +43,7 @@ img {
 @media only screen and (max-width: 1024px) {
     div.content {
         margin: 0;
-        padding: 12.5%;
+        padding: 5%;
         width: 100%;
     }
 }
