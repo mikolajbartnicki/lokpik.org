@@ -86,4 +86,5 @@ ul.navigation>li {
 
 q {
     font-style: italic;
+    quotes: "\201e" "\201d";
 }
