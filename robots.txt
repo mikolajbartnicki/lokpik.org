@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: .gitignore
+Disallow: CNAME
+Disallow: README.md
+Sitemap: https://lokpik.org/sitemap.xml
